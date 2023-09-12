@@ -19,7 +19,7 @@ import org.testng.Reporter;
 public class Login {
 	WebDriver driver;
 	String tapDoanUrl = "https://eoffice.petrolimex.com.vn/";
-	String baseUrl = "https://eoffice.petrolimex.com.vn/plxcnbt/";
+	String baseUrl = "https://daotaoeoffice.petrolimex.com.vn/plxkv1/";
 	String baseUrl1 = "https://eoffice.petrolimex.com.vn/plxla/";
 	String userASS = "eoff.tn.pp"; String pwuserASS ="vtpt@2023";
 	String userTphongPheDuyet = "eoff.tn.tp"; String pwUserTphongPheDuyet ="vtpt@2023";

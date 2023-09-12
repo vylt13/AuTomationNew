@@ -1,257 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="10" passed="8" failed="2" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31828&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31829&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31830&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31831&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31832&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31832&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31832&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31833&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31833&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31833&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31834&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31835&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31835&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31835&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/vanbanbanhanh/vanbanbanhanhedit.aspx?idvb=18188&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31836&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/vanbanbanhanh/vanbanbanhanhedit.aspx?idvb=18189&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-    </line>
-    <line>
-      <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/SitePages/VanBanDi_Detail.aspx?IID=31837&Source=%2fplxcnbt%2fvanban%2fsitepages%2fvanbancuatoi%2fdangsoanthao.aspx]]>
-    </line>
   </reporter-output>
-  <suite started-at="2023-09-10T19:04:57 ICT" name="02. Văn bản dự thảo" finished-at="2023-09-10T19:28:46 ICT" duration-ms="1429299">
+  <suite started-at="2023-09-12T10:58:06 ICT" name="Default suite" finished-at="2023-09-12T10:58:47 ICT" duration-ms="40892">
     <groups>
     </groups>
-    <test started-at="2023-09-10T19:04:57 ICT" name="Phê duyệt dự thảo và YCBSTT" finished-at="2023-09-10T19:07:04 ICT" duration-ms="126917">
-      <class name="testCaseVBDT.TC04_NguoiPheDuyetYeuCauBoSungThongTin">
-        <test-method signature="NguoiPheDuyetYeuCauBoSungThongTin()[pri:0, instance:testCaseVBDT.TC04_NguoiPheDuyetYeuCauBoSungThongTin@6d5620ce]" started-at="2023-09-10T19:04:57 ICT" name="NguoiPheDuyetYeuCauBoSungThongTin" finished-at="2023-09-10T19:07:04 ICT" duration-ms="126860" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31828&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- NguoiPheDuyetYeuCauBoSungThongTin -->
-      </class> <!-- testCaseVBDT.TC04_NguoiPheDuyetYeuCauBoSungThongTin -->
-    </test> <!-- Phê duyệt dự thảo và YCBSTT -->
-    <test started-at="2023-09-10T19:07:04 ICT" name="Luồng phê duyệt VB dự thảo gửi phê duyệt và thu hồi " finished-at="2023-09-10T19:09:05 ICT" duration-ms="120942">
-      <class name="testCaseVBDT.TC02_TaoVbDuThaoGuiPheDuyetVaThuHoi">
-        <test-method signature="VBDangLuuKhongDinhKem()[pri:0, instance:testCaseVBDT.TC02_TaoVbDuThaoGuiPheDuyetVaThuHoi@2ca923bb]" started-at="2023-09-10T19:07:04 ICT" name="VBDangLuuKhongDinhKem" finished-at="2023-09-10T19:09:05 ICT" duration-ms="120942" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31829&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- VBDangLuuKhongDinhKem -->
-      </class> <!-- testCaseVBDT.TC02_TaoVbDuThaoGuiPheDuyetVaThuHoi -->
-    </test> <!-- Luồng phê duyệt VB dự thảo gửi phê duyệt và thu hồi  -->
-    <test started-at="2023-09-10T19:09:05 ICT" name="Người phê duyệt chia sẻ" finished-at="2023-09-10T19:10:11 ICT" duration-ms="66393">
-      <class name="testCaseVBDT.TC05_NguoiPheDuyetChiaSe">
-        <test-method signature="NguoiPheDuyetChiaSe()[pri:0, instance:testCaseVBDT.TC05_NguoiPheDuyetChiaSe@1787f2a0]" started-at="2023-09-10T19:09:05 ICT" name="NguoiPheDuyetChiaSe" finished-at="2023-09-10T19:10:11 ICT" duration-ms="66375" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [Chia sẻ dự thảo "[VTTest] TC 05 - Người phê duyệt Chia se Van Ban 1694347497232"] but found [Thực hiện VB đến số "[VTTest] TC 01 - Nhân viên - Kiểm tra Nhân viên Hoàn tất Task: 10-09-2023 16:08:08"]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [Chia sẻ dự thảo "[VTTest] TC 05 - Người phê duyệt Chia se Van Ban 1694347497232"] but found [Thực hiện VB đến số "[VTTest] TC 01 - Nhân viên - Kiểm tra Nhân viên Hoàn tất Task: 10-09-2023 16:08:08"]
-at org.testng.Assert.fail(Assert.java:111)
-at org.testng.Assert.failNotEquals(Assert.java:1578)
-at org.testng.Assert.assertEqualsImpl(Assert.java:150)
-at org.testng.Assert.assertEquals(Assert.java:132)
-at org.testng.Assert.assertEquals(Assert.java:656)
-at org.testng.Assert.assertEquals(Assert.java:666)
-at pages.DanhSachViecCanXuLy.ValidateTaskNhanChiaSeVBDuThao(DanhSachViecCanXuLy.java:113)
-at testCaseVBDT.TC05_NguoiPheDuyetChiaSe.NguoiPheDuyetChiaSe(TC05_NguoiPheDuyetChiaSe.java:61)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:848)
-at org.testng.TestRunner.run(TestRunner.java:621)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-at org.testng.TestNG.runSuites(TestNG.java:1114)
-at org.testng.TestNG.run(TestNG.java:1082)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31830&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- NguoiPheDuyetChiaSe -->
-      </class> <!-- testCaseVBDT.TC05_NguoiPheDuyetChiaSe -->
-    </test> <!-- Người phê duyệt chia sẻ -->
-    <test started-at="2023-09-10T19:10:11 ICT" name="Người phê duyệt hoàn tất luồng dự thảo không ký số" finished-at="2023-09-10T19:11:41 ICT" duration-ms="90290">
-      <class name="testCaseVBDT.TC03_TaoVbDuThaoGuiPheDuyetHoanTatQuyTrinh">
-        <test-method signature="VBDangLuuKhongDinhKem()[pri:0, instance:testCaseVBDT.TC03_TaoVbDuThaoGuiPheDuyetHoanTatQuyTrinh@35a3d49f]" started-at="2023-09-10T19:10:11 ICT" name="VBDangLuuKhongDinhKem" finished-at="2023-09-10T19:11:41 ICT" duration-ms="90288" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31831&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- VBDangLuuKhongDinhKem -->
-      </class> <!-- testCaseVBDT.TC03_TaoVbDuThaoGuiPheDuyetHoanTatQuyTrinh -->
-    </test> <!-- Người phê duyệt hoàn tất luồng dự thảo không ký số -->
-    <test started-at="2023-09-10T19:11:41 ICT" name="Luồng ký số - Ký số nhiều loại file" finished-at="2023-09-10T19:15:00 ICT" duration-ms="198353">
-      <class name="testCaseVBKySo.TC03_KySoNhieuLoaiFile">
-        <test-method signature="VBDangLuuKhongDinhKem()[pri:0, instance:testCaseVBKySo.TC03_KySoNhieuLoaiFile@c667f46]" started-at="2023-09-10T19:11:41 ICT" name="VBDangLuuKhongDinhKem" finished-at="2023-09-10T19:15:00 ICT" duration-ms="198353" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31832&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31832&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31832&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- VBDangLuuKhongDinhKem -->
-      </class> <!-- testCaseVBKySo.TC03_KySoNhieuLoaiFile -->
-    </test> <!-- Luồng ký số - Ký số nhiều loại file -->
-    <test started-at="2023-09-10T19:15:00 ICT" name="Luồng ký số - Chuyển xử lý phê duyệt" finished-at="2023-09-10T19:19:06 ICT" duration-ms="245977">
-      <class name="testCaseVBKySo.TC11_ChuyenXuLyTaiBuocLanhDaoPhongBan">
-        <test-method signature="ChuyenXuLyTaiBuocLanhDaoPhongBan()[pri:0, instance:testCaseVBKySo.TC11_ChuyenXuLyTaiBuocLanhDaoPhongBan@64ec96c6]" started-at="2023-09-10T19:15:00 ICT" name="ChuyenXuLyTaiBuocLanhDaoPhongBan" finished-at="2023-09-10T19:19:06 ICT" duration-ms="245977" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31833&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31833&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31833&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- ChuyenXuLyTaiBuocLanhDaoPhongBan -->
-      </class> <!-- testCaseVBKySo.TC11_ChuyenXuLyTaiBuocLanhDaoPhongBan -->
-    </test> <!-- Luồng ký số - Chuyển xử lý phê duyệt -->
-    <test started-at="2023-09-10T19:19:06 ICT" name="Luồng ký số - Ký thừa lệnh" finished-at="2023-09-10T19:20:46 ICT" duration-ms="99873">
-      <class name="testCaseVBKySo.TC05_KyThuaLenh_NguoiSoanCoWorkerName">
-        <test-method signature="KyThuaLenh_NguoiSoanCoWorkerName()[pri:0, instance:testCaseVBKySo.TC05_KyThuaLenh_NguoiSoanCoWorkerName@6b0d80ed]" started-at="2023-09-10T19:19:06 ICT" name="KyThuaLenh_NguoiSoanCoWorkerName" finished-at="2023-09-10T19:20:46 ICT" duration-ms="99873" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31834&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- KyThuaLenh_NguoiSoanCoWorkerName -->
-      </class> <!-- testCaseVBKySo.TC05_KyThuaLenh_NguoiSoanCoWorkerName -->
-    </test> <!-- Luồng ký số - Ký thừa lệnh -->
-    <test started-at="2023-09-10T19:20:46 ICT" name="Luồng ký số - Yêu cầu hiệu chỉnh và thay đổi người duyệt" finished-at="2023-09-10T19:24:39 ICT" duration-ms="233485">
-      <class name="testCaseVBKySo.TC10_YeuCauHieuChinhVaThayDoiNguoiDuyet">
-        <test-method signature="VBDangLuuKhongDinhKem()[pri:0, instance:testCaseVBKySo.TC10_YeuCauHieuChinhVaThayDoiNguoiDuyet@dc9876b]" started-at="2023-09-10T19:20:46 ICT" name="VBDangLuuKhongDinhKem" finished-at="2023-09-10T19:24:39 ICT" duration-ms="233484" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31835&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31835&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31835&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/vanbanbanhanh/vanbanbanhanhedit.aspx?idvb=18188&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- VBDangLuuKhongDinhKem -->
-      </class> <!-- testCaseVBKySo.TC10_YeuCauHieuChinhVaThayDoiNguoiDuyet -->
-    </test> <!-- Luồng ký số - Yêu cầu hiệu chỉnh và thay đổi người duyệt -->
-    <test started-at="2023-09-10T19:24:39 ICT" name="Luồng ký số - Yêu cầu hiệu chỉnh và thay đổi thay đổi ky thừa lệnh" finished-at="2023-09-10T19:27:36 ICT" duration-ms="176831">
-      <class name="testCaseVBKySo.TC11_YeuCauHieuChinhVaThayDoiKyThuaLenh">
-        <test-method signature="VBDangLuuKhongDinhKem()[pri:0, instance:testCaseVBKySo.TC11_YeuCauHieuChinhVaThayDoiKyThuaLenh@57a3e26a]" started-at="2023-09-10T19:24:39 ICT" name="VBDangLuuKhongDinhKem" finished-at="2023-09-10T19:27:36 ICT" duration-ms="176829" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/workflow_xulyquytrinhv2_document.aspx?iid=31836&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/sitepages/vanbanbanhanh/vanbanbanhanhedit.aspx?idvb=18189&source=https://eoffice.petrolimex.com.vn/plxcnbt/vanban/default.aspx?page=1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- VBDangLuuKhongDinhKem -->
-      </class> <!-- testCaseVBKySo.TC11_YeuCauHieuChinhVaThayDoiKyThuaLenh -->
-    </test> <!-- Luồng ký số - Yêu cầu hiệu chỉnh và thay đổi thay đổi ky thừa lệnh -->
-    <test started-at="2023-09-10T19:27:36 ICT" name="Thao tác trên form VB ký số" finished-at="2023-09-10T19:28:46 ICT" duration-ms="70158">
-      <class name="testCaseVBKySo.TC01_ThaoTacTrenFormVBKySo">
-        <test-method signature="ThaoTacTrenFormDuThao()[pri:0, instance:testCaseVBKySo.TC01_ThaoTacTrenFormVBKySo@5e17553a]" started-at="2023-09-10T19:27:36 ICT" name="ThaoTacTrenFormDuThao" finished-at="2023-09-10T19:28:46 ICT" duration-ms="70150" status="FAIL">
+    <test started-at="2023-09-12T10:58:06 ICT" name="Default test" finished-at="2023-09-12T10:58:47 ICT" duration-ms="40892">
+      <class name="testCaseFullVBDEN_LanhDao.TC01_TGD_TrinhLanhDao">
+        <test-method signature="TGDTrinhLanhDao()[pri:0, instance:testCaseFullVBDEN_LanhDao.TC01_TGD_TrinhLanhDao@6d5620ce]" started-at="2023-09-12T10:58:06 ICT" name="TGDTrinhLanhDao" finished-at="2023-09-12T10:58:47 ICT" duration-ms="40832" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//table[@role='grid']/tbody[1]/tr[1]/td[6]"}
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='ItemInput']//select[contains (@id, 'ddlSoVBDen')]"}
   (Session info: chrome=116.0.5845.180)
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:42:28.403Z'
-System info: host: 'NB35', ip: '192.168.1.17', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+System info: host: 'NB35', ip: '172.16.8.106', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.180, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\vylt\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60418}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 1bd47d5f260c573cb24a78ca807a8727
-*** Element info: {Using=xpath, value=//table[@role='grid']/tbody[1]/tr[1]/td[6]}]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.180, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\vylt\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54669}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b07357c60b7dacc438f278fa40b4971d
+*** Element info: {Using=xpath, value=//div[@class='ItemInput']//select[contains (@id, 'ddlSoVBDen')]}]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//table[@role='grid']/tbody[1]/tr[1]/td[6]"}
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='ItemInput']//select[contains (@id, 'ddlSoVBDen')]"}
   (Session info: chrome=116.0.5845.180)
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:42:28.403Z'
-System info: host: 'NB35', ip: '192.168.1.17', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+System info: host: 'NB35', ip: '172.16.8.106', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.180, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\vylt\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60418}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 1bd47d5f260c573cb24a78ca807a8727
-*** Element info: {Using=xpath, value=//table[@role='grid']/tbody[1]/tr[1]/td[6]}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.180, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\vylt\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54669}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b07357c60b7dacc438f278fa40b4971d
+*** Element info: {Using=xpath, value=//div[@class='ItemInput']//select[contains (@id, 'ddlSoVBDen')]}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -267,8 +45,8 @@ at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:3
 at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
 at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
-at pages.FormVanBanDuThao.XoaFile(FormVanBanDuThao.java:165)
-at testCaseVBKySo.TC01_ThaoTacTrenFormVBKySo.ThaoTacTrenFormDuThao(TC01_ThaoTacTrenFormVBKySo.java:62)
+at pages.ThemMoiVanBanDen.inputVanBanDen(ThemMoiVanBanDen.java:70)
+at testCaseFullVBDEN_LanhDao.TC01_TGD_TrinhLanhDao.TGDTrinhLanhDao(TC01_TGD_TrinhLanhDao.java:38)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -301,12 +79,9 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </full-stacktrace>
           </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
-            <line>
-              <![CDATA[https://eoffice.petrolimex.com.vn/plxcnbt/vanban/SitePages/VanBanDi_Detail.aspx?IID=31837&Source=%2fplxcnbt%2fvanban%2fsitepages%2fvanbancuatoi%2fdangsoanthao.aspx]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- ThaoTacTrenFormDuThao -->
-      </class> <!-- testCaseVBKySo.TC01_ThaoTacTrenFormVBKySo -->
-    </test> <!-- Thao tác trên form VB ký số -->
-  </suite> <!-- 02. Văn bản dự thảo -->
+        </test-method> <!-- TGDTrinhLanhDao -->
+      </class> <!-- testCaseFullVBDEN_LanhDao.TC01_TGD_TrinhLanhDao -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -12,7 +12,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class ThemMoiVanBanDen {
 	WebDriver driver;
 	String file01 = "C:\\AttachFiles\\FileWord.docx";
-	String inDocumentNewFormUrl = "https://daotaoeoffice.petrolimex.com.vn/plxkv1/vanban/Lists/VanBanDen/ThemMoiVanBanDuThao.aspx?Source=https%3A%2F%2Fdaotaoeoffice%2Epetrolimex%2Ecom%2Evn%2Fplxbn%2Fvanban%2FLists%2FVanBanDen%2FTatCa%2Easpx&ContentTypeId=0x0100F8457C2B8B1A7D4FA6B2B4AFB3DB7340";
 	String vbDangLuuUrl = "https://daotaoeoffice.petrolimex.com.vn/plxkv1/vanban/sitepages/vanbanden/luu.aspx";
 //	String danhSachChoYKienLanhDao = "https://daotaoeoffice.petrolimex.com.vn/plxkv1/vanban/Lists/VanBanDen/vb-cho-y-kien.aspx";
 public ThemMoiVanBanDen(WebDriver driver) {
@@ -53,9 +52,6 @@ By yKienLanhDao =  By.xpath("//div//textarea[contains (@id, 'txtYKienLanhDao_3')
 By lanhDaoChuyenXuLy = By.xpath("//div[@class='Buttons']//input[contains (@id, 'btnTrinhLanhDao_3')]");
 //Btn Kết thúc Văn bản Đến
 By btnThoat = By.xpath("//div[@class='Buttons']//input[contains (@id, 'btnThoat')]");
-public void NavigateToNewFormUrl() {
-	driver.get(inDocumentNewFormUrl);
-}
 public void inputVanBanDen(
 		String sovb,
 		String so_van_ban,

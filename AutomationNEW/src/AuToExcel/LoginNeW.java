@@ -18,8 +18,7 @@ import org.testng.Reporter;
 
 public class LoginNeW {
 	WebDriver driver;
-	String tapDoanUrl = "https://eoffice.petrolimex.com.vn/";
-	String baseUrl = "https://eoffice.petrolimex.com.vn/plxbp";
+	String baseUrl = "https://daotaoeoffice.petrolimex.com.vn/plxkv1";
 public LoginNeW(WebDriver driver) {
 	this.driver = driver;
 }

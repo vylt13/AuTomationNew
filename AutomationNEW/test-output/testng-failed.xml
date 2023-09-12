@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [02. Văn bản dự thảo]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Người phê duyệt chia sẻ(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCaseVBDT.TC05_NguoiPheDuyetChiaSe">
+      <class name="testCaseFullVBDEN_LanhDao.TC01_TGD_TrinhLanhDao">
         <methods>
-          <include name="NguoiPheDuyetChiaSe"/>
+          <include name="TGDTrinhLanhDao"/>
         </methods>
-      </class> <!-- testCaseVBDT.TC05_NguoiPheDuyetChiaSe -->
+      </class> <!-- testCaseFullVBDEN_LanhDao.TC01_TGD_TrinhLanhDao -->
     </classes>
-  </test> <!-- Người phê duyệt chia sẻ(failed) -->
-  <test thread-count="5" name="Thao tác trên form VB ký số(failed)">
-    <classes>
-      <class name="testCaseVBKySo.TC01_ThaoTacTrenFormVBKySo">
-        <methods>
-          <include name="ThaoTacTrenFormDuThao"/>
-        </methods>
-      </class> <!-- testCaseVBKySo.TC01_ThaoTacTrenFormVBKySo -->
-    </classes>
-  </test> <!-- Thao tác trên form VB ký số(failed) -->
-</suite> <!-- Failed suite [02. Văn bản dự thảo] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
