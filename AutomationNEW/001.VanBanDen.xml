@@ -1,0 +1,90 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+ 
+<suite name="07. Văn bản ban hành" verbose="1">
+<test name="TC01 - Văn bản đến - Văn thư Trình lãnh đạo">
+        <classes>
+            <class name="testCaseVBDenVanThu.TC06_VBDen_ChuyenXuLy" />
+        </classes>
+    </test>
+    <test name="TC02 - Văn bản đến - Văn thư Lập phiếu giải quyết">
+<classes>
+<class name="testCaseVBDenVanThu.TC07_VBDen_LapPhieuGiaiQuyet" />
+</classes>
+</test>
+<test name="TC03 - Văn bản đến - Văn thư kết thúc VB">
+<classes>
+<class name="testCaseVBDenVanThu.TC08_VBDen_VanThuKetThucVB" />
+</classes>
+</test>
+    <test name="TC04 - Văn bản đến - Lãnh đạo trình lãnh đạo cấp 2">
+        <classes>
+            <class name="testCaseFullVBDEN_LanhDao.TC01_TGD_TrinhLanhDao" />
+        </classes>
+    </test>    
+    <test name="TC05 - Văn bản đến - Lãnh đạo kết thúc văn bản">
+        <classes>
+            <class name="testCaseFullVBDEN_LanhDao.TC02_TGD_KetThucVB" />
+        </classes>
+    </test>    
+     <test name="TC06 - Văn bản đến - Lãnh đạo cho ý kiến">
+        <classes>
+            <class name="testCaseFullVBDEN_LanhDao.TC03_VBDEN_LDChoYKien" />
+        </classes>
+    </test>       
+     <test name="TC07 - Văn bản đến - Lãnh đạo phân công thực hiện">
+        <classes>
+            <class name="testCaseFullVBDEN_LanhDao.TC04_TGD_PhanCongThucHien" />
+        </classes>
+    </test>
+         <test name="TC07.1 - Văn bản đến - Lãnh đạo phân công phối hợp thực hiện">
+        <classes>
+            <class name="testCaseFullVBDEN_LanhDao.TC10_TGD_PhanCongPhoiHop" />
+        </classes>
+    </test>
+    <test name="TC08 - Văn bản đến - Lãnh đạo phân công Assignment">
+        <classes>
+            <class name="testCaseFullVBDEN_LanhDao.TC07_VBDEN_LDChuyenAssignment" />
+        </classes>
+    </test>                   
+            <test name="TC09 - Văn bản đến - Trưởng phòng kết thúc task">
+        <classes>
+            <class name="testCaseTPXuLyVanBanDen.TC02_Tp_KetThucTask" />
+        </classes>
+    </test>        
+    <test name="TC10 - Văn bản đến - Trưởng phòng Lập HSDT">
+        <classes>
+            <class name="testCaseTPXuLyVanBanDen.TC03_Tp_LapHoSoDuThao" />
+        </classes>
+    </test>     
+    <test name="TC11 - Văn bản đến - Trưởng phòng Lập HSXL">
+        <classes>
+            <class name="testCaseTPXuLyVanBanDen.TC04_Tp_LapHoSoXuLy" />
+        </classes>
+    </test>
+     <test name="TC12 - Văn bản đến - Trưởng phòng Phân công Task">
+        <classes>
+            <class name="testCaseTPXuLyVanBanDen.TC05_Tp_PhanCongVanBan" />
+        </classes>
+    </test>           
+	<test name="TC13 - Văn bản đến - Nhân viên cập nhật task">
+        <classes>
+            <class name="testCaseNVXuLyVanBanDen.TC01_NV_NVCapNhatTask" />
+        </classes>
+    </test>    	  
+    <test name="TC14 - Văn bản đến - Nhân viên hoàn tất task">
+        <classes>
+            <class name="testCaseNVXuLyVanBanDen.TC02_NV_NVHoanTatTask" />
+        </classes>
+    </test>
+             <test name="TC15 - Văn bản đến - Tạo Hồ sơ cá nhân từ menu">
+        <classes>
+            <class name="testCaseFullVBDEN_LanhDao.TC06_VBDEN_TaoHSCNTUMENU" />
+        </classes>
+    </test>  
+    <test name="TC16 - Văn bản đến - Chia sẻ và tạo HSCN">
+        <classes>
+            <class name="testCaseFullVBDEN_LanhDao.TC05_VBDEN_ChiaSeHSCN" />
+        </classes>
+    </test>
+    
+</suite>

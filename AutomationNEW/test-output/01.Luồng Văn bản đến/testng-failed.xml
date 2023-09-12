@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [01.Luồng Văn bản đến]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TC03 - Văn bản đến - Văn thư Lập phiếu giải quyết(failed)">
+    <classes>
+      <class name="testCaseVBDenVanThu.TC07_VBDen_LapPhieuGiaiQuyet">
+        <methods>
+          <include name="VBDenLapPhieuGiaiQuyet"/>
+        </methods>
+      </class> <!-- testCaseVBDenVanThu.TC07_VBDen_LapPhieuGiaiQuyet -->
+    </classes>
+  </test> <!-- TC03 - Văn bản đến - Văn thư Lập phiếu giải quyết(failed) -->
+  <test thread-count="5" name="TC09 - Văn bản đến - Lãnh đạo phân công Assignment(failed)">
+    <classes>
+      <class name="testCaseFullVBDEN_LanhDao.TC07_VBDEN_LDChuyenAssignment">
+        <methods>
+          <include name="ChuTichChuyenXuLy"/>
+        </methods>
+      </class> <!-- testCaseFullVBDEN_LanhDao.TC07_VBDEN_LDChuyenAssignment -->
+    </classes>
+  </test> <!-- TC09 - Văn bản đến - Lãnh đạo phân công Assignment(failed) -->
+  <test thread-count="5" name="TC10 - Văn bản đến - Lãnh đạo phân công lại phòng ban(failed)">
+    <classes>
+      <class name="testCaseFullVBDEN_LanhDao.TC08_VBDEN_PhanCongLaiDepartment">
+        <methods>
+          <include name="ChuTichPhanCongThucHien"/>
+        </methods>
+      </class> <!-- testCaseFullVBDEN_LanhDao.TC08_VBDEN_PhanCongLaiDepartment -->
+    </classes>
+  </test> <!-- TC10 - Văn bản đến - Lãnh đạo phân công lại phòng ban(failed) -->
+  <test thread-count="5" name="TC13 - Văn bản đến - Trưởng phòng kết thúc task(failed)">
+    <classes>
+      <class name="testCaseTPXuLyVanBanDen.TC02_Tp_KetThucTask">
+        <methods>
+          <include name="TPKetThucTask"/>
+        </methods>
+      </class> <!-- testCaseTPXuLyVanBanDen.TC02_Tp_KetThucTask -->
+    </classes>
+  </test> <!-- TC13 - Văn bản đến - Trưởng phòng kết thúc task(failed) -->
+  <test thread-count="5" name="TC16 - Văn bản đến - Trưởng phòng Phân công Task(failed)">
+    <classes>
+      <class name="testCaseTPXuLyVanBanDen.TC05_Tp_PhanCongVanBan">
+        <methods>
+          <include name="PhanCongVanBan"/>
+        </methods>
+      </class> <!-- testCaseTPXuLyVanBanDen.TC05_Tp_PhanCongVanBan -->
+    </classes>
+  </test> <!-- TC16 - Văn bản đến - Trưởng phòng Phân công Task(failed) -->
+  <test thread-count="5" name="TC17 - Văn bản đến - Nhân viên cập nhật task(failed)">
+    <classes>
+      <class name="testCaseNVXuLyVanBanDen.TC01_NV_NVCapNhatTask">
+        <methods>
+          <include name="NVCapNhatTask"/>
+        </methods>
+      </class> <!-- testCaseNVXuLyVanBanDen.TC01_NV_NVCapNhatTask -->
+    </classes>
+  </test> <!-- TC17 - Văn bản đến - Nhân viên cập nhật task(failed) -->
+  <test thread-count="5" name="TC18 - Văn bản đến - Nhân viên hoàn tất task(failed)">
+    <classes>
+      <class name="testCaseNVXuLyVanBanDen.TC02_NV_NVHoanTatTask">
+        <methods>
+          <include name="NVHoanTatTask"/>
+        </methods>
+      </class> <!-- testCaseNVXuLyVanBanDen.TC02_NV_NVHoanTatTask -->
+    </classes>
+  </test> <!-- TC18 - Văn bản đến - Nhân viên hoàn tất task(failed) -->
+</suite> <!-- Failed suite [01.Luồng Văn bản đến] -->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [07. Văn bản ban hành]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TC09 - Văn bản đến - Trưởng phòng kết thúc task(failed)">
+    <classes>
+      <class name="testCaseTPXuLyVanBanDen.TC02_Tp_KetThucTask">
+        <methods>
+          <include name="TPKetThucTask"/>
+        </methods>
+      </class> <!-- testCaseTPXuLyVanBanDen.TC02_Tp_KetThucTask -->
+    </classes>
+  </test> <!-- TC09 - Văn bản đến - Trưởng phòng kết thúc task(failed) -->
+  <test thread-count="5" name="TC16 - Văn bản đến - Chia sẻ và tạo HSCN(failed)">
+    <classes>
+      <class name="testCaseFullVBDEN_LanhDao.TC05_VBDEN_ChiaSeHSCN">
+        <methods>
+          <include name="TGDTrinhLanhDao"/>
+        </methods>
+      </class> <!-- testCaseFullVBDEN_LanhDao.TC05_VBDEN_ChiaSeHSCN -->
+    </classes>
+  </test> <!-- TC16 - Văn bản đến - Chia sẻ và tạo HSCN(failed) -->
+</suite> <!-- Failed suite [07. Văn bản ban hành] -->
